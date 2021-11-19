@@ -1,0 +1,22 @@
+body{
+    background-color: #54575B;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+#button,#button2{
+    background-color: white;
+    border: none;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#input1{
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
